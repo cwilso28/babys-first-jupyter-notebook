@@ -1,1 +1,1 @@
-# babys-first-jupyter-notebook
+# my-first-jupyter-notebook
