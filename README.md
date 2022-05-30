@@ -3,5 +3,5 @@
 This is my first Jupyter notebook shared through Github. I've had a Github account for a while, but I've never used it, and I've been practicing developing Jupyter notebooks. Why not combine the two and practice both at te same time? This repo is my first step in uploading data files, organizing them, and then using them in a trial notebook. 
 
 ## Helpful Links
-[Cloning a repository to a local folder](https://medium.com/@sanskriti.srivastava2019_64571/upload-jupyter-notebook-on-github-with-git-step-by-step-f00a5216f1c4)
-[Uploading a static copy of a file to Github](https://reproducible-science-curriculum.github.io/sharing-RR-Jupyter/01-sharing-github/)
+- [Cloning a repository to a local folder](https://medium.com/@sanskriti.srivastava2019_64571/upload-jupyter-notebook-on-github-with-git-step-by-step-f00a5216f1c4)
+- [Uploading a static copy of a file to Github](https://reproducible-science-curriculum.github.io/sharing-RR-Jupyter/01-sharing-github/)
